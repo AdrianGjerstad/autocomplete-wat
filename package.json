@@ -1,15 +1,17 @@
 {
-  "name": "autocomplete-boilerplate",
+  "name": "autocomplete-wat",
   "main": "./lib/main",
-  "version": "0.2.0",
-  "description": "Boilerplate package for creating your own custom autocomplete provider for Atom.",
+  "version": "0.1.0",
+  "description": "Autocomplete package support for WebAssembly Text Format.",
   "keywords": [
     "autocomplete",
     "provider",
-    "boilerplate"
+    "webassembly",
+    "wat",
+    "wasm"
   ],
-  "repository": "https://github.com/lonekorean/atom-autocomplete-boilerplate",
-  "author": "Will Boyd <will@codersblock.com> (http://codersblock.com)",
+  "repository": "https://github.com/AdrianGjerstad/autocomplete-wat",
+  "author": "Adrian Gjerstad",
   "license": "MIT",
   "engines": {
     "atom": ">=1.15.0 <2.0.0"
